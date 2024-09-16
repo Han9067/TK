@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 2d33ac26bcfde004ea9bec6d4f8e1288
+  productGUID: 041dc139c8d1ba64eabe6ab4dc3bbdf8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Test
+  productName: tt
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -784,14 +784,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Test
+  metroPackageName: tt
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Test
+  metroApplicationDescription: tt
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -860,11 +860,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0c8b5ef7-f833-49be-869d-9ef9c2c4d7e0
+  cloudProjectId: 51299254-78c2-4481-8317-2ba9ce23c7f6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Test
-  organizationId: yungasi_han
+  projectName: tt
+  organizationId: hanjjing
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

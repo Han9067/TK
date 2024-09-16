@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1036d92d70cb89cee9296f8e2e8362617be4fd13"
+      "hash": "b93d05a2906be91b2669f5022f902a3cb0bd2052"
     },
     "com.ls9512.utween": {
       "version": "https://github.com/ls9512/UTween.git",
