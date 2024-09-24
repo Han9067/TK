@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 using GB;
+using UnityEngine.Tilemaps;
 
 public class WorldMap : AutoSingleton<WorldMap>
 {
+
+    public Tilemap worldMap;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +20,7 @@ public class WorldMap : AutoSingleton<WorldMap>
     {
         // UIManager.ShowPopup("PausePopup");
         // Debug.Log("?");
-
+        Debug.Log(worldMap);
         
     }
 

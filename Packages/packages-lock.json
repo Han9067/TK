@@ -5,14 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b93d05a2906be91b2669f5022f902a3cb0bd2052"
-    },
-    "com.ls9512.utween": {
-      "version": "https://github.com/ls9512/UTween.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "9a08622351452839c749a1856d64b781fdfabd24"
+      "hash": "2910f2f371815a7e5eb101bb278564796e9d0649"
     },
     "com.unity.2d.animation": {
       "version": "9.1.1",

@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.gb.core": "https://github.com/shogun0331/gbmain.git",
-    "com.ls9512.utween": "https://github.com/ls9512/UTween.git",
     "com.unity.collab-proxy": "2.5.1",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.31",
